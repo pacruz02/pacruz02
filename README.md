@@ -24,8 +24,8 @@ He trabajado con diversos lenguajes y tecnologías a lo largo de mi formación a
 
 ## 📈 Estadísticas de GitHub
 
-![Mis estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=radical)
-![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=tu-usuario&layout=compact&theme=radical)
+![Mis estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=pacruz02&show_icons=true&theme=radical)
+![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=pacruz02&layout=compact&theme=radical)
 
 ---
 
