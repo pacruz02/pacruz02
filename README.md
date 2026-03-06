@@ -20,7 +20,7 @@ He trabajado con diversos lenguajes y tecnologías a lo largo de mi formación a
 
 ## 📈 Estadísticas de GitHub
 
-![Mis estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=pacruz02&show_icons=true&theme=radical)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pacruz02)](https://github.com/anuraghazra/github-readme-stats)
 ![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=pacruz02&layout=compact&theme=radical)
 
 ---
