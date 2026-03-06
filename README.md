@@ -29,7 +29,7 @@ He trabajado con diversos lenguajes y tecnologías a lo largo de mi formación a
 
 ¡Siempre estoy abierto a charlar sobre tecnología, colaborar en proyectos o simplemente conectar!
 
-* **LinkedIn:** [linkedin.com/in/tu-perfil](https://www.linkedin.com/in/pablo-cruz-sojo-686382266/)
+* **LinkedIn:** [linkedin.com/in/pablo-cruz-sojo](https://www.linkedin.com/in/pablo-cruz-sojo-686382266/)
 
 ---
 
