@@ -31,7 +31,3 @@ He trabajado con diversos lenguajes y tecnologías a lo largo de mi formación a
 * **LinkedIn:** [linkedin.com/in/pablo-cruz-sojo](https://www.linkedin.com/in/pablo-cruz-sojo-686382266/)
 
 ---
-
-<p align="center">
-  Hecho con ❤️ en Madrid.
-</p>
