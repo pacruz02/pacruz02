@@ -22,6 +22,6 @@ He trabajado con diversos lenguajes y tecnologías a lo largo de mi formación a
 
 ¡Siempre estoy abierto a charlar sobre tecnología, colaborar en proyectos o simplemente conectar!
 
-[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)]((https://www.linkedin.com/in/pablo-cruz-sojo-686382266/))
+[![(https://www.linkedin.com/in/pablo-cruz-sojo-686382266/)](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](#)
 
 ---
