@@ -18,11 +18,6 @@ He trabajado con diversos lenguajes y tecnologías a lo largo de mi formación a
 
 ---
 
-## 📈 Estadísticas de GitHub
-
-![Pablos's GitHub stats](https://github-readme-stats.vercel.app/api?username=pacruz02&show_icons=true&theme=radical)
----
-
 ## 📨 Contacto
 
 ¡Siempre estoy abierto a charlar sobre tecnología, colaborar en proyectos o simplemente conectar!
